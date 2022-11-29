@@ -1,4 +1,7 @@
 # Python-Machine Learning
+
+[![hackmd-github-sync-badge](https://hackmd.io/v1QvXAzoSoODfBLqvxgVAg/badge)](https://hackmd.io/v1QvXAzoSoODfBLqvxgVAg)
+
 ## Book Chapter
 * Python資料科學實戰教本(陳會安) Ch15, Ch16
 
